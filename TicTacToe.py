@@ -1,5 +1,7 @@
 # -----Global Variables -----------
 
+#testing
+
 
 #board
 
